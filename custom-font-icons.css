@@ -1,0 +1,79 @@
+/*
+  Icon Font: custom-font-icons
+*/
+
+@font-face {
+  font-family: "custom-font-icons";
+  src: url("./custom-font-icons.eot");
+  src: url("./custom-font-icons.eot?#iefix") format("embedded-opentype"),
+       url("./custom-font-icons.woff") format("woff"),
+       url("./custom-font-icons.ttf") format("truetype"),
+       url("./custom-font-icons.svg#custom-font-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "custom-font-icons";
+    src: url("./custom-font-icons.svg#custom-font-icons") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.fa-admin:before,
+.fa-broom:before,
+.fa-coin-bag:before,
+.fa-coins:before,
+.fa-deaf:before,
+.fa-dice:before,
+.fa-door-closed:before,
+.fa-door-open:before,
+.fa-factory:before,
+.fa-hourglass:before,
+.fa-id-card:before,
+.fa-map:before,
+.fa-robot:before,
+.fa-shopping-basket:before,
+.fa-shower:before,
+.fa-stop-watch:before,
+.fa-t-shirt:before,
+.fa-target:before,
+.fa-tractor:before,
+.fa-user-with-headset:before {
+  display: inline-block;
+  font-family: "custom-font-icons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.fa-admin:before { content: "\f100"; }
+.fa-broom:before { content: "\f101"; }
+.fa-coin-bag:before { content: "\f102"; }
+.fa-coins:before { content: "\f103"; }
+.fa-deaf:before { content: "\f104"; }
+.fa-dice:before { content: "\f105"; }
+.fa-door-closed:before { content: "\f106"; }
+.fa-door-open:before { content: "\f107"; }
+.fa-factory:before { content: "\f108"; }
+.fa-hourglass:before { content: "\f109"; }
+.fa-id-card:before { content: "\f10a"; }
+.fa-map:before { content: "\f10b"; }
+.fa-robot:before { content: "\f10c"; }
+.fa-shopping-basket:before { content: "\f10d"; }
+.fa-shower:before { content: "\f10e"; }
+.fa-stop-watch:before { content: "\f10f"; }
+.fa-t-shirt:before { content: "\f110"; }
+.fa-target:before { content: "\f111"; }
+.fa-tractor:before { content: "\f112"; }
+.fa-user-with-headset:before { content: "\f113"; }
