@@ -1,0 +1,32 @@
+{
+  "name": "custom-font-icons",
+  "version": "1.0.0",
+  "homepage": "https://customfonticons.com/",
+  "authors": [
+    "Todd Zusman <toddzusman@gmail.com>"
+  ],
+  "description": "A free font icon set that fits perfectly with Font Awesome icons",
+  "main": [
+    "custom-font-icons.css",
+    "custom-font-icons.eot",
+    "custom-font-icons.svg",
+    "custom-font-icons.ttf",
+    "custom-font-icons.woff"
+  ],
+  "keywords": [
+    "Custom Font icons",
+    "Font icons",
+    "Custom icons",
+    "Free icons"
+  ],
+  "license": "SIL OFL 1.1",
+  "ignore": [
+    "README.md",
+    "custom-font-icons-preview.html",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
