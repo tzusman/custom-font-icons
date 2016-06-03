@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="32px"
+	 viewBox="0 0 64 32" enable-background="new 0 0 64 32" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<path fill="#222222" d="M38.815,4.841l-2.746,2.715c-0.004,0.008-0.02,0.02-0.023,0.023c-1.24,1.227-1.238,3.211,0.004,4.434
+			c1.242,1.227,3.23,1.23,4.473,0.004c0.031-0.031,0.074-0.07,0.105-0.102l2.688-2.656c4.703-4.648,9.75-1.473,11.336,0.094
+			c1.859,1.84,2.816,4.062,2.867,6.664c0.055,2.597-0.852,4.82-2.711,6.664c-5.078,5.016-9.781,1.441-11.395-0.152L39.05,18.22
+			v0.004L25.396,4.736C22.134,1.513,13.881-4.15,4.748,4.876C1.629,7.962,0.049,11.701,0.01,16.103
+			c-0.035,4.398,1.504,8.144,4.627,11.222c2.873,2.848,11.639,8.656,20.564-0.164l2.748-2.719c0.006-0.008,0.018-0.016,0.023-0.02
+			c1.24-1.227,1.238-3.211-0.002-4.438c-1.242-1.227-3.232-1.227-4.473-0.004c-0.031,0.031-0.074,0.074-0.105,0.105l-2.689,2.656
+			c-4.701,4.645-9.751,1.473-11.332-0.098C7.51,20.81,6.553,18.587,6.5,15.986c-0.055-2.602,0.854-4.824,2.713-6.664
+			c5.078-5.016,9.781-1.441,11.392,0.152L38.62,27.263c3.266,3.223,11.516,8.887,20.648-0.141c3.121-3.082,4.703-6.82,4.742-11.226
+			c0.035-4.398-1.508-8.141-4.629-11.223C56.511,1.83,47.745-3.982,38.815,4.841z"/>
+	</g>
+</switch>
+
+</svg>

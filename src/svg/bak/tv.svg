@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px"
+	 viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<path fill="#222222" d="M50.039,15.812H35.488L47.795,0L31.568,14.758L20.412,4.605l7.695,11.207H13.964
+			C6.251,15.812,0,21.496,0,28.508v15.875c0,7.016,6.252,12.695,13.965,12.695h36.075c7.713,0,13.961-5.68,13.961-12.695V28.508
+			C64,21.496,57.752,15.812,50.039,15.812z M57.633,44.383c0,3.809-3.404,6.906-7.594,6.906H13.964
+			c-4.189,0-7.598-3.098-7.598-6.906V28.508c0-3.809,3.408-6.906,7.598-6.906h36.075c4.189,0,7.594,3.098,7.594,6.906V44.383z
+			 M22.863,59.535L18.619,64h26.764l-4.246-4.465H22.863z"/>
+	</g>
+</switch>
+
+</svg>

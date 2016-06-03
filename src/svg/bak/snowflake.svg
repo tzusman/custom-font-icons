@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="56px"
+	 viewBox="0 0 64 56" enable-background="new 0 0 64 56" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<polygon fill="#222222" points="56.541,22.403 51.783,25.977 47.658,24.821 51.439,18.575 43.287,25.954 35.516,25.954 
+			39.4,19.149 49.807,15.708 42.557,15.895 43.627,11.708 49.072,9.325 48.002,0 39.475,3.731 40.158,9.68 37.104,12.708 
+			33.637,6.278 35.885,17.102 32.001,23.899 28.115,17.098 30.367,6.274 26.902,12.708 23.845,9.68 24.529,3.727 16,0.004 
+			14.933,9.325 20.375,11.708 21.445,15.887 14.199,15.708 24.601,19.149 28.488,25.954 20.712,25.954 12.562,18.575 16.341,24.821 
+			12.216,25.977 7.457,22.403 0,28 7.457,33.602 12.216,30.023 16.341,31.184 12.562,37.434 20.71,30.051 28.486,30.051 
+			24.601,36.852 14.197,40.293 21.445,40.113 20.375,44.301 14.931,46.68 16,56 24.527,52.273 23.843,46.324 26.9,43.293 
+			30.367,49.727 28.113,38.902 32.003,32.102 35.889,38.902 33.637,49.727 37.104,43.293 40.158,46.32 39.479,52.273 48.002,56 
+			49.072,46.676 43.627,44.301 42.557,40.109 49.807,40.293 39.404,36.852 35.518,30.051 43.291,30.051 51.439,37.434 
+			47.658,31.184 51.783,30.023 56.541,33.602 64.002,28 		"/>
+	</g>
+</switch>
+
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="2017.338px"
+	 height="2017.268px" viewBox="0 0 2017.338 2017.268" enable-background="new 0 0 2017.338 2017.268" xml:space="preserve">
+<switch>
+	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
+		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
+		</i:pgfRef>
+	</foreignObject>
+	<g i:extraneous="self">
+		<path fill="#222222" d="M1229.57,1661.877l47.035,46.789l432.185-432.186l-46.79-46.91L1229.57,1661.877z M1495.037,1331.152
+			L660.896,326.17L0,0l326.17,660.835l1005.105,834.079L1495.037,1331.152z M157.975,161.3l1203.835,1203.835l-34.969,34.846
+			L382.501,616.386L157.975,161.3z M1640.822,1805.2l164.5-164.5c-24.625-26.474-51.715-55.162-81.758-86.438l-169.18,169.18
+			C1585.414,1753.486,1614.227,1780.697,1640.822,1805.2z M1506.857,1677.145l170.41-170.41
+			c-22.655-22.901-46.543-47.035-71.907-72.522l-171.148,171.026C1459.821,1630.725,1483.708,1654.612,1506.857,1677.145z
+			 M1984.107,1997.773v0.125l13.789-13.793v-0.123c23.887-24.747,37.187-54.177-30.043-149.971l-133.719,133.842
+			C1929.929,2035.082,1959.234,2021.66,1984.107,1997.773z M1780.697,1927.467l146.77-146.894
+			c-20.932-26.351-46.542-56.394-77.324-90.746l-160.314,160.19C1724.303,1880.801,1754.348,1906.412,1780.697,1927.467z"/>
+	</g>
+</switch>
+
+</svg>

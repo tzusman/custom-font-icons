@@ -1,0 +1,18 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "custom-font-icons";
+  src: url("fonts/custom-font-icons.eot");
+  src: url("fonts/custom-font-icons.eot?#iefix") format("eot"), url("fonts/custom-font-icons.woff2") format("woff2"), url("fonts/custom-font-icons.woff") format("woff"), url("fonts/custom-font-icons.ttf") format("truetype"), url("fonts/custom-font-icons.svg#custom-font-icons") format("svg"); }
+
+.icon-admin:before {
+  font-family: "custom-font-icons";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-decoration: none;
+  text-transform: none; }
+
+.icon-admin:before {
+  content: ""; }

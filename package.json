@@ -31,6 +31,8 @@
     "coffee-script": "^1.10.0",
     "gulp": "^3.9.1",
     "gulp-iconfont": "^8.0.0",
-    "gulp-iconfont-css": "^2.1.0"
+    "gulp-iconfont-css": "^2.1.0",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^2.3.1"
   }
 }
