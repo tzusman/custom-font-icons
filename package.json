@@ -1,0 +1,36 @@
+{
+  "name": "custom-font-icons",
+  "version": "1.0.0",
+  "description": "Font icons that look great with FontAwesome",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzusman/custom-font-icons.git"
+  },
+  "keywords": [
+    "Custom",
+    "font",
+    "icons",
+    "font",
+    "icons",
+    "custom",
+    "icons",
+    "free",
+    "icons"
+  ],
+  "author": "Todd Zusman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tzusman/custom-font-icons/issues"
+  },
+  "homepage": "https://github.com/tzusman/custom-font-icons#readme",
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "gulp": "^3.9.1",
+    "gulp-iconfont": "^8.0.0",
+    "gulp-iconfont-css": "^2.1.0"
+  }
+}
