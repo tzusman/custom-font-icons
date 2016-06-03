@@ -1,17 +1,18 @@
 {
   "name": "custom-font-icons",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "homepage": "https://customfonticons.com/",
   "authors": [
-    "Todd Zusman <toddzusman@gmail.com>"
+    "Todd Zusman <toddzusman@gmail.com>",
+    "Otis Wright <otis@webfox.co.nz>"
   ],
   "description": "A free font icon set that fits perfectly with Font Awesome icons",
   "main": [
-    "custom-font-icons.css",
-    "custom-font-icons.eot",
-    "custom-font-icons.svg",
-    "custom-font-icons.ttf",
-    "custom-font-icons.woff"
+    "./fonts/custom-font-icons.css",
+    "./fonts/custom-font-icons.eot",
+    "./fonts/custom-font-icons.svg",
+    "./fonts/custom-font-icons.ttf",
+    "./fonts/custom-font-icons.woff"
   ],
   "keywords": [
     "Custom Font icons",
