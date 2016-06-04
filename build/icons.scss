@@ -30,6 +30,126 @@
   @if $filename == admin {
     $char: "\E001";
   }
+  @if $filename == broom {
+    $char: "\E002";
+  }
+  @if $filename == coin-bag {
+    $char: "\E003";
+  }
+  @if $filename == coins {
+    $char: "\E004";
+  }
+  @if $filename == crown {
+    $char: "\E005";
+  }
+  @if $filename == deaf {
+    $char: "\E006";
+  }
+  @if $filename == dice {
+    $char: "\E007";
+  }
+  @if $filename == door-closed {
+    $char: "\E008";
+  }
+  @if $filename == door-open {
+    $char: "\E009";
+  }
+  @if $filename == dumbbell {
+    $char: "\E00A";
+  }
+  @if $filename == dvd {
+    $char: "\E00B";
+  }
+  @if $filename == engagement-ring {
+    $char: "\E00C";
+  }
+  @if $filename == factory {
+    $char: "\E00D";
+  }
+  @if $filename == gas-pump {
+    $char: "\E00E";
+  }
+  @if $filename == guitar {
+    $char: "\E00F";
+  }
+  @if $filename == headset {
+    $char: "\E010";
+  }
+  @if $filename == hourglass {
+    $char: "\E011";
+  }
+  @if $filename == id-card {
+    $char: "\E012";
+  }
+  @if $filename == infinity {
+    $char: "\E013";
+  }
+  @if $filename == legal-scale {
+    $char: "\E014";
+  }
+  @if $filename == map {
+    $char: "\E015";
+  }
+  @if $filename == medal {
+    $char: "\E016";
+  }
+  @if $filename == no-smoking {
+    $char: "\E017";
+  }
+  @if $filename == open-book {
+    $char: "\E018";
+  }
+  @if $filename == package {
+    $char: "\E019";
+  }
+  @if $filename == piggy-bank {
+    $char: "\E01A";
+  }
+  @if $filename == robot {
+    $char: "\E01B";
+  }
+  @if $filename == shopping-bag {
+    $char: "\E01C";
+  }
+  @if $filename == shopping-basket {
+    $char: "\E01D";
+  }
+  @if $filename == shower {
+    $char: "\E01E";
+  }
+  @if $filename == skull {
+    $char: "\E01F";
+  }
+  @if $filename == smoking {
+    $char: "\E020";
+  }
+  @if $filename == snowflake {
+    $char: "\E021";
+  }
+  @if $filename == stopwatch {
+    $char: "\E022";
+  }
+  @if $filename == sword {
+    $char: "\E023";
+  }
+  @if $filename == t-shirt {
+    $char: "\E024";
+  }
+  @if $filename == target {
+    $char: "\E025";
+  }
+  @if $filename == tractor {
+    $char: "\E026";
+  }
+  @if $filename == tv {
+    $char: "\E027";
+  }
+  @if $filename == user-with-headset {
+    $char: "\E028";
+  }
+  @if $filename == walking {
+    $char: "\E029";
+  }
 
   @return $char;
 }
@@ -47,4 +167,124 @@
 
 .icon-admin {
   @include icon(admin);
+}
+.icon-broom {
+  @include icon(broom);
+}
+.icon-coin-bag {
+  @include icon(coin-bag);
+}
+.icon-coins {
+  @include icon(coins);
+}
+.icon-crown {
+  @include icon(crown);
+}
+.icon-deaf {
+  @include icon(deaf);
+}
+.icon-dice {
+  @include icon(dice);
+}
+.icon-door-closed {
+  @include icon(door-closed);
+}
+.icon-door-open {
+  @include icon(door-open);
+}
+.icon-dumbbell {
+  @include icon(dumbbell);
+}
+.icon-dvd {
+  @include icon(dvd);
+}
+.icon-engagement-ring {
+  @include icon(engagement-ring);
+}
+.icon-factory {
+  @include icon(factory);
+}
+.icon-gas-pump {
+  @include icon(gas-pump);
+}
+.icon-guitar {
+  @include icon(guitar);
+}
+.icon-headset {
+  @include icon(headset);
+}
+.icon-hourglass {
+  @include icon(hourglass);
+}
+.icon-id-card {
+  @include icon(id-card);
+}
+.icon-infinity {
+  @include icon(infinity);
+}
+.icon-legal-scale {
+  @include icon(legal-scale);
+}
+.icon-map {
+  @include icon(map);
+}
+.icon-medal {
+  @include icon(medal);
+}
+.icon-no-smoking {
+  @include icon(no-smoking);
+}
+.icon-open-book {
+  @include icon(open-book);
+}
+.icon-package {
+  @include icon(package);
+}
+.icon-piggy-bank {
+  @include icon(piggy-bank);
+}
+.icon-robot {
+  @include icon(robot);
+}
+.icon-shopping-bag {
+  @include icon(shopping-bag);
+}
+.icon-shopping-basket {
+  @include icon(shopping-basket);
+}
+.icon-shower {
+  @include icon(shower);
+}
+.icon-skull {
+  @include icon(skull);
+}
+.icon-smoking {
+  @include icon(smoking);
+}
+.icon-snowflake {
+  @include icon(snowflake);
+}
+.icon-stopwatch {
+  @include icon(stopwatch);
+}
+.icon-sword {
+  @include icon(sword);
+}
+.icon-t-shirt {
+  @include icon(t-shirt);
+}
+.icon-target {
+  @include icon(target);
+}
+.icon-tractor {
+  @include icon(tractor);
+}
+.icon-tv {
+  @include icon(tv);
+}
+.icon-user-with-headset {
+  @include icon(user-with-headset);
+}
+.icon-walking {
+  @include icon(walking);
 }

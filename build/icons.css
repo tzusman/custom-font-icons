@@ -4,7 +4,7 @@
   src: url("fonts/custom-font-icons.eot");
   src: url("fonts/custom-font-icons.eot?#iefix") format("eot"), url("fonts/custom-font-icons.woff2") format("woff2"), url("fonts/custom-font-icons.woff") format("woff"), url("fonts/custom-font-icons.ttf") format("truetype"), url("fonts/custom-font-icons.svg#custom-font-icons") format("svg"); }
 
-.icon-admin:before {
+.icon-admin:before, .icon-broom:before, .icon-coin-bag:before, .icon-coins:before, .icon-crown:before, .icon-deaf:before, .icon-dice:before, .icon-door-closed:before, .icon-door-open:before, .icon-dumbbell:before, .icon-dvd:before, .icon-engagement-ring:before, .icon-factory:before, .icon-gas-pump:before, .icon-guitar:before, .icon-headset:before, .icon-hourglass:before, .icon-id-card:before, .icon-infinity:before, .icon-legal-scale:before, .icon-map:before, .icon-medal:before, .icon-no-smoking:before, .icon-open-book:before, .icon-package:before, .icon-piggy-bank:before, .icon-robot:before, .icon-shopping-bag:before, .icon-shopping-basket:before, .icon-shower:before, .icon-skull:before, .icon-smoking:before, .icon-snowflake:before, .icon-stopwatch:before, .icon-sword:before, .icon-t-shirt:before, .icon-target:before, .icon-tractor:before, .icon-tv:before, .icon-user-with-headset:before, .icon-walking:before {
   font-family: "custom-font-icons";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -16,3 +16,123 @@
 
 .icon-admin:before {
   content: ""; }
+
+.icon-broom:before {
+  content: ""; }
+
+.icon-coin-bag:before {
+  content: ""; }
+
+.icon-coins:before {
+  content: ""; }
+
+.icon-crown:before {
+  content: ""; }
+
+.icon-deaf:before {
+  content: ""; }
+
+.icon-dice:before {
+  content: ""; }
+
+.icon-door-closed:before {
+  content: ""; }
+
+.icon-door-open:before {
+  content: ""; }
+
+.icon-dumbbell:before {
+  content: ""; }
+
+.icon-dvd:before {
+  content: ""; }
+
+.icon-engagement-ring:before {
+  content: ""; }
+
+.icon-factory:before {
+  content: ""; }
+
+.icon-gas-pump:before {
+  content: ""; }
+
+.icon-guitar:before {
+  content: ""; }
+
+.icon-headset:before {
+  content: ""; }
+
+.icon-hourglass:before {
+  content: ""; }
+
+.icon-id-card:before {
+  content: ""; }
+
+.icon-infinity:before {
+  content: ""; }
+
+.icon-legal-scale:before {
+  content: ""; }
+
+.icon-map:before {
+  content: ""; }
+
+.icon-medal:before {
+  content: ""; }
+
+.icon-no-smoking:before {
+  content: ""; }
+
+.icon-open-book:before {
+  content: ""; }
+
+.icon-package:before {
+  content: ""; }
+
+.icon-piggy-bank:before {
+  content: ""; }
+
+.icon-robot:before {
+  content: ""; }
+
+.icon-shopping-bag:before {
+  content: ""; }
+
+.icon-shopping-basket:before {
+  content: ""; }
+
+.icon-shower:before {
+  content: ""; }
+
+.icon-skull:before {
+  content: ""; }
+
+.icon-smoking:before {
+  content: ""; }
+
+.icon-snowflake:before {
+  content: ""; }
+
+.icon-stopwatch:before {
+  content: ""; }
+
+.icon-sword:before {
+  content: ""; }
+
+.icon-t-shirt:before {
+  content: ""; }
+
+.icon-target:before {
+  content: ""; }
+
+.icon-tractor:before {
+  content: ""; }
+
+.icon-tv:before {
+  content: ""; }
+
+.icon-user-with-headset:before {
+  content: ""; }
+
+.icon-walking:before {
+  content: ""; }
