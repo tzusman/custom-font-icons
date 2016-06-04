@@ -6,7 +6,7 @@ A publicly released icon font set commissioned by the crowd.  These icons go per
 #### Yes! I would like to contribute my own icons
 Great, thank you for helping improve this project. Here are the instructions on how to add your own icons:
 
-Adding new icons is exceptionally easy.  Add the icon in svg format to the `src/svg` folder.  These svgs must be generated as described in [these docs](https://github.com/nfroidure/gulp-iconfont#preparing-svgs). Run `npm start` to generate the build folder.  As items are added or updated, th files.  Submit a PR to the [custom-font-icons repo](https://github.com/tzusman/custom-font-icons), and you're done!
+Adding new icons is exceptionally easy.  Add the icon in svg format to the `src/svg` folder.  These svgs must be generated as described in [these docs](https://github.com/nfroidure/gulp-iconfont#preparing-svgs). Run `npm start` to generate the build folder.  Submit a PR to the [custom-font-icons repo](https://github.com/tzusman/custom-font-icons), and you're done!
 
 For convenience, running `npm start` will continue to watch the `src/svg` folder.  As .svg files are added, updated, or removed, the build script will automatically run.
 
