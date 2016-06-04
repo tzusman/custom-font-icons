@@ -20,11 +20,12 @@ gulp.task 'build', ->
     .pipe(iconfont(
       fontName: fontName
       prependUnicode: false
-      formats: [ 'ttf', 'eot', 'woff' ]
+      formats: [ 'ttf', 'eot', 'woff', 'woff2', 'svg' ]
       timestamp: Math.round(Date.now()/1000)
+      normalize: true
     ))
     .on('glyphs', (glyphs, opts) ->
-      console.log( glyphs, opts )
+      #console.log( glyphs, opts )
     )
     .pipe gulp.dest('build/fonts')
 
